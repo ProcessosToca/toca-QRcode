@@ -251,6 +251,11 @@ body {
   color: #fff;
 }
 
+.link--tiktok .link__icon {
+  background-color: #000000;
+  color: #fff;
+}
+
 .link__label {
   font-size: 0.95rem;
   font-weight: 600;
@@ -288,6 +293,10 @@ body {
   border-color: rgba(10, 102, 194, 0.4);
 }
 
+.link--tiktok:hover {
+  border-color: rgba(254, 44, 85, 0.45);
+}
+
 /* ── Footer ── */
 
 .footer {
@@ -311,6 +320,9 @@ body {
 }
 .link:nth-child(3) {
   animation: fadeUp 0.6s 0.35s ease both;
+}
+.link:nth-child(4) {
+  animation: fadeUp 0.6s 0.45s ease both;
 }
 
 /* ── Responsive ── */
