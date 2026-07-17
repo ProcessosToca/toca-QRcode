@@ -12,6 +12,114 @@
       "sourceType": "github",
       "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
       "computedHash": "ec56a54fba0e97bee52c7f244ba603bb284bf8d1b739c66a5cc84ec3df709d9d"
+    },
+    "setting-up-python-libraries": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/project-setup/SKILL.md",
+      "computedHash": "a3a015a5e48671285e49df44823f6fec06541750f9b156031c1351629728d9ed"
+    },
+    "improving-python-code-quality": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/code-quality/SKILL.md",
+      "computedHash": "d31f717bd64db0463de5a907bfeebdca662a54376df72bc2066d640ba7997720"
+    },
+    "testing-python-libraries": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/testing-strategy/SKILL.md",
+      "computedHash": "063cb56e32d1e69ffc8259ed51ae0e205ddbb692510aa663d04ab1b630c26002"
+    },
+    "building-python-web-apps": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/web-app-architecture/SKILL.md",
+      "computedHash": "671b9b070ee6b9c529a538a4901f2749d3926db812e9a25c61ff08ee01148207"
+    },
+    "designing-python-apis": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/api-design/SKILL.md",
+      "computedHash": "acb583f773d5f734d6f82ea349d7f3cbdf53674b79c485de228caf372ee77028"
+    },
+    "building-python-clis": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/cli-development/SKILL.md",
+      "computedHash": "4be3815a9dc7ac238cab4892118f8ff8b40fc25ae15bc0962279fbe3a40dd80a"
+    },
+    "building-python-communities": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/community/SKILL.md",
+      "computedHash": "fd980f551cf59baa3bb26bc9903b8adcadfaa06fab48c605a4930642da457b81"
+    },
+    "documenting-python-libraries": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/documentation/SKILL.md",
+      "computedHash": "5313c2ac3dc0a1fe14c1ba6fa4bf409e913cc0a6fd30b372590e9d0a3eb2b9e5"
+    },
+    "reviewing-python-libraries": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/library-review/SKILL.md",
+      "computedHash": "9991d8a7b9c4be70b4f20af1e9dd504f5b1f32fcb81c55237dded6a51f9bbde5"
+    },
+    "building-python-mcp-servers": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/mcp-servers/SKILL.md",
+      "computedHash": "2bf749893ce6aa6f4e4d755660c72868f6eb59dfb7f029873caff974e185253d"
+    },
+    "packaging-python-libraries": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/packaging/SKILL.md",
+      "computedHash": "48c6ba3daa9c47ca61722daeeca41d9285af669df29207c95081130e9f266eaa"
+    },
+    "optimizing-python-performance": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/performance/SKILL.md",
+      "computedHash": "7a067d606519de2ca021281f0107b9a408fad50ac1b36db2d7bd0f7a93ffb4aa"
+    },
+    "managing-python-releases": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/release-management/SKILL.md",
+      "computedHash": "a8b7347b8a2b71e47d61387ce65269d3b156923fc6e8d11e840fa5bfe569167f"
+    },
+    "auditing-python-security": {
+      "source": "wdm0006/python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/python/security-audit/SKILL.md",
+      "computedHash": "d187ae077eb1f9a01ffeec26e16a7dde8a461308dc44b9ad92dcb36d038d6749"
+    },
+    "sql-database-assistant": {
+      "source": "alirezarezvani/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/sql-database-assistant/SKILL.md",
+      "computedHash": "f767c7f1296e54877d1bf4fb71a7887931e65e4d374e43a2f578e3ee2bec1641"
+    },
+    "database-designer": {
+      "source": "alirezarezvani/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/database-designer/SKILL.md",
+      "computedHash": "3729790a4e29e45ea0e9cb0bbb220d2162fea0e954d32f2abf8728aa8ef41ad1"
+    },
+    "senior-frontend": {
+      "source": "alirezarezvani/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering-team/skills/senior-frontend/SKILL.md",
+      "computedHash": "886e83d1713b473f01091954683d7f008cefd1100d32114ccaf85368fb67a9a5"
+    },
+    "ui-design-system": {
+      "source": "alirezarezvani/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/skills/ui-design-system/SKILL.md",
+      "computedHash": "7f8c1714af2602bcd2b3b49b6aaf0f53351fb739b26062d548f6a9c8c1b10e8d"
     }
   }
 }
