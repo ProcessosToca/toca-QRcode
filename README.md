@@ -2,11 +2,6 @@
 
 Site simples com links para as redes sociais da Toca Imóveis (Instagram, Facebook e LinkedIn).
 
-> Este repositório também hospeda, na subpasta [`processos/`](processos/README.md), um
-> projeto independente (Vite + React) com uma landing page interativa sobre a
-> importância de uma área de Processos. Ele tem build e deploy próprios (Vercel) e
-> não interfere neste site estático.
-
 ## Visualizar localmente
 
 Abra o arquivo `index.html` diretamente no navegador, ou use um servidor local:
